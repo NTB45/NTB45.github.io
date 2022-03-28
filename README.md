@@ -27,5 +27,6 @@ originally this domain was going to be used for my nextcloud server but the mfer
 ### Support or Contact
 
 Message me at discord at KuudereEnthusiast#5201 or pm me at https://www.reddit.com/user/KuudereEnthusiast or 
-mail me at ntb45@pm.me
-©nenebestwaifu
+mail me at ntb45@pm.me. 
+©nenebestwaifu  freebobux.ga
+![Image](https://github.com/NTB45/why_is_it_not_working/blob/main/ayachi-01.jpeg)
