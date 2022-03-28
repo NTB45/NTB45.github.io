@@ -28,3 +28,4 @@ originally this domain was going to be used for my nextcloud server but the mfer
 
 Message me at discord at KuudereEnthusiast#5201 or pm me at https://www.reddit.com/user/KuudereEnthusiast or 
 mail me at ntb45@pm.me
+©nenebestwaifu
