@@ -4,7 +4,7 @@ This website is being kinda constructed, idk shit about css
 
 ### Why does this website exist
 
-IDK, i just had an impulse to show others the shit i do, usually the stuff that goes unnotices
+IDK, i just had an impulse to show others the shit i do, usually the stuff that goes unnoticed
 
 ### How I made this
 
