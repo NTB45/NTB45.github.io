@@ -1,23 +1,10 @@
-## Welcome to NTB45 aka KuudereEnthusiast's website
+## Welcome to KuudereEnthusiast's website
 
-This website is being constructed
+This website is being kinda constructed, idk shit about css
 
-### Markdown
+### Why does this website exist
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-C
-V
-*Edit: seems like the ctrl key on my keyboard is not working
-[Link](url) and ![Image]()
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NTB45/why_is_it_not_working/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+IDK, i just had an impulse to show others the shit i do, usually the stuff that goes unnotices
 
 ### How I made this
 
@@ -27,6 +14,6 @@ originally this domain was going to be used for my nextcloud server but the mfer
 ### Support or Contact
 
 Message me at discord at KuudereEnthusiast#5201 or pm me at https://www.reddit.com/user/KuudereEnthusiast or 
-mail me at ntb45@pm.me. 
+mail me at ntb45@pm.me. Remember ,I ain't gonna hack someones insta account dumbass, I ain't no 1337 hAxx0r.
 ©nenebestwaifu  freebobux.ga
 ![Image](https://github.com/NTB45/why_is_it_not_working/blob/main/ayachi-01.jpeg)
