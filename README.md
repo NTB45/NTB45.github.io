@@ -13,14 +13,24 @@ originally this domain was going to be used for my nextcloud server but the mfer
 
 ### Domains I own
 http://hornynig.ga/
+
 http://suckmycocknig.ga/
+
 http://sawcon.tk/
+
 http://sugondeez.tk/
+
 http://ceoofdank.tk/
+
 http://cockandballtorture.tk/
+
 http://thepussyslayer.tk/
+
 http://freebobux.ga/
+
 http://kuudereenthusiast.tk/
+
+You can request any of these unused domains to be redirected anywhere
 
 ### Support or Contact
 
