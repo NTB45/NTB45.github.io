@@ -1,4 +1,4 @@
-## Welcome to KuudereEnthusiast's website
+# Welcome to KuudereEnthusiast's website
 
 This website is being kinda constructed, idk shit about css
 
