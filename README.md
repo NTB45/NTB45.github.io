@@ -35,5 +35,5 @@ You can request any of these unused domains to be redirected anywhere
 ### Support or Contact
 
 Message me at discord at KuudereEnthusiast#5201 or pm me at https://www.reddit.com/user/KuudereEnthusiast or 
-mail me at ntb45@pm.me[Kuu@hornynig.ga is work in progress(^_<)〜☆]. Remember , I ain't no 1337 hAxx0r or programmer.
+mail me at ntb45@pm.me or at progamerracist@hornynig.ga
 
