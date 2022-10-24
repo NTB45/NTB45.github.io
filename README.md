@@ -11,10 +11,7 @@ IDK, i just had an impulse to show others the shit i do, usually the stuff that 
 I got the domain name from freenom and set it to redirect at this page
 originally this domain was going to be used for my nextcloud server but the mfers at jio blocked port forwarding
 
-### Domains I own
-http://hornynig.ga/
-
-http://suckmycocknig.ga/
+### Domains I owm
 
 http://sawcon.tk/
 
