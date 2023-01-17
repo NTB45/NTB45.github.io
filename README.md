@@ -1,4 +1,4 @@
-# Welcome to KuudereEnthusiast's website
+# Welcome to KuudereEnthusiast's website testing edition
 
 This website is still being constructed, because my sorry ass is too lazy to complete it and idk shit about css
 
